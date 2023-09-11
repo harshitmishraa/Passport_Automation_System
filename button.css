@@ -1,0 +1,91 @@
+body{
+    background-image: url("download_image.jpg");
+    background-size: 1920px 1080px;
+}
+
+.container
+{
+    text-align: center;
+    
+   
+}
+
+.my-button{
+    width: 200px;
+    height:100px;
+    font-size: 20px;
+    font-family: lato;
+    margin-top: 60px;
+    background-color:white;
+     border: 1px solid rgb(182, 180, 177);
+     border-radius: 20px;
+     box-shadow: 2px 2px;
+     
+}
+
+.my-button:hover{
+    background-color: rgb(101, 212, 16);
+
+}
+.my-button1{
+    width: 200px;
+    height:100px; 
+    font-size: 20px;
+    font-family: lato;
+    margin-top: 60px;
+    background-color: white;
+    border: 1px solid rgb(182, 180, 177);
+    border-radius: 20px;
+    box-shadow: 2px 2px;
+}
+.my-button1:hover{
+    background-color: rgb(250, 246, 28);
+
+}
+
+.my-button2{
+    width: 200px;
+    height:100px;
+    font-size: 20px;
+    font-family: lato;
+    margin-top:60px;
+    background-color: white;
+    border: 1px solid rgb(182, 180, 177);
+    border-radius: 20px;
+    box-shadow: 2px 2px;
+}
+.my-button2:hover{
+    background-color: rgb(201, 22, 236);
+
+}
+
+.my-button3{
+    width: 200px;
+    height:100px;
+    font-size: 20px;
+    font-family: lato;
+    margin-top: 60px;
+    background-color: white;
+    border: 1px solid rgb(182, 180, 177);
+    border-radius: 20px;
+    box-shadow: 2px 2px;
+}
+
+.my-button3:hover{
+    background-color: rgb(80, 209, 231);
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
